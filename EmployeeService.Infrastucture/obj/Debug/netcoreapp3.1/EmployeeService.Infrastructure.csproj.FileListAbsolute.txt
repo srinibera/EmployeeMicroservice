@@ -1,0 +1,15 @@
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\bin\Debug\netcoreapp3.1\EmployeeService.Infrastructure.deps.json
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\bin\Debug\netcoreapp3.1\EmployeeService.Infrastructure.runtimeconfig.json
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\bin\Debug\netcoreapp3.1\EmployeeService.Infrastructure.runtimeconfig.dev.json
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\bin\Debug\netcoreapp3.1\EmployeeService.Infrastructure.dll
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\bin\Debug\netcoreapp3.1\EmployeeService.Infrastructure.pdb
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\bin\Debug\netcoreapp3.1\EmployeeService.Domain.dll
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\bin\Debug\netcoreapp3.1\EmployeeService.Domain.pdb
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.csprojAssemblyReference.cache
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.AssemblyInfoInputs.cache
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.AssemblyInfo.cs
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.csproj.CopyComplete
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.dll
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.pdb
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Infrastucture\obj\Debug\netcoreapp3.1\EmployeeService.Infrastructure.genruntimeconfig.cache

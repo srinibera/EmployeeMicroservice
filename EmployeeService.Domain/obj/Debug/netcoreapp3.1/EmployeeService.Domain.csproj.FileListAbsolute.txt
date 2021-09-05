@@ -1,0 +1,8 @@
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\bin\Debug\netcoreapp3.1\EmployeeService.Domain.deps.json
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\bin\Debug\netcoreapp3.1\EmployeeService.Domain.dll
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\bin\Debug\netcoreapp3.1\EmployeeService.Domain.pdb
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\obj\Debug\netcoreapp3.1\EmployeeService.Domain.AssemblyInfoInputs.cache
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\obj\Debug\netcoreapp3.1\EmployeeService.Domain.AssemblyInfo.cs
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\obj\Debug\netcoreapp3.1\EmployeeService.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\obj\Debug\netcoreapp3.1\EmployeeService.Domain.dll
+D:\Learning\GitHubProjects\Microservice-Employee-Sample\EmployeeService.Domain\obj\Debug\netcoreapp3.1\EmployeeService.Domain.pdb

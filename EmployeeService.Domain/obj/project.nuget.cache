@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkU3cXosk3hB069SvWtt3Z5MsjT3Gz7qCB4hitX/S6I+F+v3BwqUeNqrB3tyOXEkOeSKR4tkkVmqkw0e6kxHjg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\GitHubProjects\\Microservice-Employee-Sample\\EmployeeService.Domain\\EmployeeService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AzAtchitect\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\AzAtchitect\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\AzAtchitect\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

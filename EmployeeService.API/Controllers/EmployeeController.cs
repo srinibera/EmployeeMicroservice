@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using EmployeeService.API.DTO;
 using EmployeeService.API.Features.Employee.Commands;
 using EmployeeService.Domain;
 using EmployeeService.Features.Employee.Queries;
@@ -84,7 +85,7 @@ namespace EmployeeService.API.Controllers
 
         [HttpPost(Name = "AddEmployee")]
         [ProducesResponseType((int)HttpStatusCode.OK)]
-        public async Task<ActionResult<int>> AddEmployee([FromBody] AddEmployeeCommand command)
+        public async Task<ActionResult<int>> AddEmployee([FromBody] CreateEmployee command)
         {
             var result = await _mediator.Send(command);
             return Ok(result);
@@ -94,7 +95,7 @@ namespace EmployeeService.API.Controllers
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesDefaultResponseType]
-        public async Task<ActionResult> UpdateEmployee([FromBody] UpdateEmployeeCommand command)
+        public async Task<ActionResult> UpdateEmployee([FromBody] UpdateEmployee command)
         {
             await _mediator.Send(command);
             return NoContent();
@@ -106,7 +107,7 @@ namespace EmployeeService.API.Controllers
         [ProducesDefaultResponseType]
         public async Task<ActionResult> DeleteEmployee(int id)
         {
-            var command = new DeleteEmployeeCommand() { EmployeeId = id };
+            var command = new DeleteEmployee() { EmployeeId = id };
             await _mediator.Send(command);
             return NoContent();
         }

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using EmployeeService.API.DTO;
 using EmployeeService.API.Features.Employee.Commands;
 using EmployeeService.Domain;
 using EmployeeService.Features.Employee.Queries;
@@ -10,9 +11,9 @@ namespace EmployeeService.API.Mapper
 		public EmployeeProfile()
 		{
 			CreateMap<Employee, EmployeeDTO>().ReverseMap();
-			CreateMap<AddEmployeeCommand, Employee>().ReverseMap();
-			CreateMap<DeleteEmployeeCommand, Employee>().ReverseMap();
-			CreateMap<UpdateEmployeeCommand, Employee>().ReverseMap();
+			CreateMap<CreateEmployee, Employee>().ReverseMap();
+			CreateMap<DeleteEmployee, Employee>().ReverseMap();
+			CreateMap<UpdateEmployee, Employee>().ReverseMap();
 		}
 	}
 }
